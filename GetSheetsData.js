@@ -1,5 +1,5 @@
 function getsheetdata() {
-// Esta função com ajuda do endpoint da poensheet.elk.sh TEMOS ACESSO A NOSSA SHEET 
+// Esta função com ajuda do endpoint da opensheet.elk.sh TEMOS ACESSO A NOSSA SHEET 
   // para fazermos um fetch e obeter os dados no padroão JSON
   const site = "https://opensheet.elk.sh/";
   const sheetid= "1_eCRbbUKfJFksUUdJLHTf39I2SRtqrmqOexZZ1rSADs/1"; // acabando com /1 para acessar 1-planilha
